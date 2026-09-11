@@ -79,11 +79,6 @@ Interactive filters allow users to explore the data from different business pers
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Sales & Business Analytics Dashboard](Images/Sales & Business Analytics Dashboard.png)
-
----
 
 ## 🔍 Key Business Insights
 
