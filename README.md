@@ -156,4 +156,4 @@ The dashboard provides a clear view of sales performance and enables users to ex
 
 **ROZ RAJAK**
 
-**Skills:** Power BI | DAX | SQL | Excel | Python | Data Analysis
+**Skills:** Power BI | DAX | Excel | Data Analysis
